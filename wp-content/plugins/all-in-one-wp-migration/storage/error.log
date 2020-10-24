@@ -1,0 +1,6 @@
+Oct 24 2020 09:16:39
+{"type":8,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\e-commerce\\wp-content\\themes\\woodmart\\inc\\classes\\License.php","line":89}
+
+Oct 24 2020 09:16:40
+{"type":8,"message":"Trying to access array offset on value of type null","file":"C:\\xampp\\htdocs\\e-commerce\\wp-content\\themes\\woodmart\\inc\\classes\\License.php","line":89}
+
